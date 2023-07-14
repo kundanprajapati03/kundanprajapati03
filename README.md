@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://kundanprajapati03.github.io/My-portfolieo-website/](https://kundanprajapati03.github.io/My-portfolieo-website/)
 
-- 📝 I regularly write articles on [https://mrkundantech.blogspot.com/](https://mrkundantech.blogspot.com/)
+- 📝 I regularly write articles on [https://mrkundantech.tech/](https://mrkundantech.blogspot.com/)
 
 - 📫 How to reach me **kundanprajapati2020@gmail.com**
 
