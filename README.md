@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kundan Prajapati 💖</h1>
-<h3 align="center">I am a Tech Student || Programmer</h3>
+<h3 align="center">I am a Tech Student ||Men Stack web Developer || Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kundanprajapati03&label=Profile%20views&color=0e75b6&style=flat" alt="kundanprajapati03" /> </p>
 
-- 🌱 I’m currently learning **Full stack Web Devlopment.**
+- 🌱 I’m currently learning **MERN stack Web Devlopment.**
 
 - 👨‍💻 All of my projects are available at [https://kundanprajapati03.github.io/My-portfolieo-website/](https://kundanprajapati03.github.io/My-portfolieo-website/)
 
